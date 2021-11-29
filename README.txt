@@ -16,8 +16,6 @@ Una vez ejecutado el script, se pedirá cuál de los archivos se quiere ejecutar
 
 DIRECTORIOS:
 
-abc) Estan los ficheros correspondientes al apartado a (basics.cpp), b (greedy.cpp) y c (local_search.cpp)
+Part_1) Estan los ficheros correspondientes al apartado a (basics.cpp), b (greedy.cpp) y c (local_search.cpp)
 
-d) Esta el fichero correspondiente del apartado d (metahueristic.cpp)
-
-e) Esta el fichero correspondiente del apartado e) 
+Part_2) Esta el fichero correspondiente del apartado d (metahueristic.cpp) y el fichero correspondiente del apartado e) 
